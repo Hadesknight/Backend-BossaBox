@@ -1,0 +1,11 @@
+#SERVER
+PORT=4000
+
+
+
+#DATABASE
+
+DB_HOST=localhost
+DB_USER=postgres
+DB_PASS=docker
+DB_NAME=bossa_box
